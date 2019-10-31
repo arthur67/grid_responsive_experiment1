@@ -5,10 +5,10 @@
 }
 
 .container {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px , 1fr));
-	grid-column-gap: 5px;
-	grid-row-gap: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px , 1fr));
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
 }
 
 
